@@ -1,6 +1,6 @@
 # `Inventory-System-API`
 
-## 🚀 Install the necessary dependencies 
+## Install the server dependencies 
 ```nodejs
   npm install
 ```
