@@ -5,4 +5,4 @@
   npm install
 ```
 ## Please configure the following `environment variables`
-> PORT > DB_URL
+> `PORT` `DB_URL`
