@@ -4,5 +4,5 @@
 ```nodejs
   npm install
 ```
-## Please configure the following `environment variables`
+> Please configure the following environment variables
 > `PORT` `DB_URL`
