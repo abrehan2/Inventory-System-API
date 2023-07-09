@@ -5,4 +5,4 @@
   npm install
 ```
 ### Please configure the following environment variables in `config/config.env` file
-> `PORT` `DB_URL` `JWT_SECRET` `JWT_EXPIRE` `COOKIE_EXPIRE`
+> `PORT` `DB_URL` `JWT_SECRET` `JWT_EXPIRE` `COOKIE_EXPIRE` `FRONTEND_URL`
