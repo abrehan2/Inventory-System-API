@@ -1,6 +1,6 @@
 # `Inventory-System-API`
 
-## Run the command below to install the server dependencies
+### Run the command below to install the server dependencies
 ```nodejs
   npm install
 ```
