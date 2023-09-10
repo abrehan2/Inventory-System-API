@@ -1,5 +1,4 @@
-# `Inventory-System-API`
-This is a back-end of the [Inventory-System-UI](https://github.com/abrehan2/Inventory-System-UI.git)
+> This is a back-end of the [Inventory-System-UI](https://github.com/abrehan2/Inventory-System-UI.git)
 
 ### Run the command below to install the server-side dependencies
 ```nodejs
