@@ -1,6 +1,9 @@
 > This is a back-end of the [Inventory-System-UI](https://github.com/abrehan2/Inventory-System-UI.git)
 
-### Run the command below to install the server-side dependencies
+### Run the commands below to get started ⚙️
+```nodejs
+  git clone https://github.com/abrehan2/Inventory-System-API.git
+```
 ```nodejs
   npm install
 ```
